@@ -1,0 +1,4 @@
+make a list "wallpapers" and add wallpaper urls to it
+make a function that adds each element of the list to the firebase collection wallpaper.
+each element of the list should be added to wallpaper collection as a value to th key "wallpaperUrl"
+call this function in the in-it state of a screen.
